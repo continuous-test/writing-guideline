@@ -11,7 +11,7 @@
 - [文長は90文字以下とする](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L3)
 - [コンマは1文中に4つまで](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L17)
 
-## 表現に関する規約
+## 表現に関する規約aaaaaa
 
 - [専門用語の使用をそろえる](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L10)
 - [二重否定は使用しない](https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L28)
